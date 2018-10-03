@@ -1,2 +1,1 @@
-# battings
-Using pandas to analyze the historical baseball data 
+Little projects of exploratory data analysis using python
